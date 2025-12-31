@@ -1,5 +1,7 @@
-name	rank	color	number
-Dasher	1	Brown	1
+|   name |	rank |	color	| number   |
+|-------------------------------------|
+|   Dasher |	1 |	Brown |	1   |
+|------------------------------|
 Dancer	2	Tan	2
 Prancer	3	White	3
 Vixen	4	Grey	4
