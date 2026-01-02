@@ -1,8 +1,11 @@
-Difficulty: Easy
+-- Difficulty: Easy
 
-Kevin's trying to decorate the house without sending the electricity bill through the roof. Write a query to find the top 5 most energy-efficient decorations (i.e. lowest cost per hour to operate).
+/*
+Kevin's trying to decorate the house without sending the electricity bill through the roof. 
+Write a query to find the top 5 most energy-efficient decorations (i.e. lowest cost per hour to operate).
+*/
 
-Here's my SQL query for question:
+-- Here's my SQL query for question:
   
 select decoration_name, energy_cost_per_hour
 from hall_decorations
